@@ -1,0 +1,10 @@
+server:
+  port: 9999
+datasource:
+  driverName: mysql
+  host: 172.26.13.114
+  port: 3306
+  database: essential
+  username: root
+  password: 123456
+  charset: utf8
